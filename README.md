@@ -1,4 +1,4 @@
-# Dete
+# Det
 ## About
 About page
 
